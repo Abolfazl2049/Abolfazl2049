@@ -2,8 +2,8 @@
 
 ## About Me
 
-Passionate Frontend Developer primarily working with Vue.js and Nuxt.js.  
-Open source contributor and maintainer, always learning and adapting to new tools and environments.
+a Programmer who is obsessed with WEB DEVELOPMENT (it has no end...). done projects mainly with nuxt, vue, reka-ui,
+tailwindcss, typescript of course and many more... .planning to move to Tehran
 
 ## Skills
 
