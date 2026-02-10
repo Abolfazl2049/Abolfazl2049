@@ -3,7 +3,7 @@
 ## About Me
 
 a Programmer who is obsessed with WEB DEVELOPMENT (it has no end...). done projects mainly with nuxt, vue, reka-ui,
-tailwindcss, typescript of course and many more... .planning to move to Tehran
+tailwindcss, typescript of course and many more... .
 
 ## Skills
 
