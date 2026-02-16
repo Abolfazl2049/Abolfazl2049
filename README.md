@@ -2,8 +2,7 @@
 
 ## About Me
 
-a Programmer who is obsessed with WEB DEVELOPMENT (it has no end...). done projects mainly with nuxt, vue, reka-ui,
-tailwindcss, typescript of course and many more... .
+Programmer .a Frontend Developer with more than two years experience primarily with Nuxt/Vue Framework in creating/maintaining Small to Large Scale Project .interested in Open Source Activities .still eager to learn and experience more languages, frameworks, tools and Deepening My Expertise.
 
 ## Skills
 
