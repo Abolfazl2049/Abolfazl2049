@@ -2,7 +2,7 @@
 
 ## About Me
 
-Programmer .a Frontend Developer with more than two years experience primarily with Nuxt/Vue Framework in creating/maintaining Small to Large Scale Project .interested in Open Source Activities .still eager to learn and experience more languages, frameworks, tools and Deepening My Expertise.
+Programmer. Frontend Developer primarily with Nuxt/Vue Framework.
 
 ## Skills
 
